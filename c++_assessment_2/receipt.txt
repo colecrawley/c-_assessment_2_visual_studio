@@ -1,0 +1,10 @@
+===== ORDER =====
+(1)Burger: $9.99, 950 calories
+(2)Buffalo wings: $3.99, 450 calories,  (twoForOne)
+(3)Buffalo wings: $3.99, 450 calories,  (twoForOne)
+(4)Buffalo wings: $3.99, 450 calories,  (twoForOne)
+(5)Garlic bread: $3.99, 500 calories,  (twoForOne)
+(6)Nachos: $4.99, 600 calories,  (shareable)
+(7)Water: $1.50: 0 calories, 330ml, 0.00%
+Total: $24.46
+Savings: $7.98
